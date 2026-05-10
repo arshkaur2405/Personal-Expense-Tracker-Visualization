@@ -1,0 +1,101 @@
+Date,Category,Amount,Payment_Method,Notes
+2025-04-13,Utilities,475.6,Debit Card,Dinner out
+2025-07-08,Entertainment,82.23,Debit Card,Coffee
+2025-11-27,Shopping,433.76,UPI,Dinner out
+2025-06-01,Shopping,15.19,Credit Card,Dinner out
+2025-10-21,Transport,95.0,Wallet,Lunch at cafe
+2025-11-10,Healthcare,8.5,Cash,Lunch at cafe
+2025-02-28,Transport,28.1,UPI,Groceries
+2025-12-30,Utilities,298.25,Debit Card,Movie ticket
+2025-11-03,Entertainment,228.0,Credit Card,Electricity bill
+2025-03-30,Utilities,283.83,Credit Card,Book purchase
+2025-12-12,Entertainment,119.29,UPI,Train fare
+2025-09-21,Shopping,455.11,UPI,Bus ticket
+2025-12-26,Utilities,159.3,Credit Card,Electricity bill
+2025-11-06,Entertainment,484.94,Credit Card,Train fare
+2025-06-11,Transport,447.94,UPI,Book purchase
+2025-07-09,Entertainment,197.4,Credit Card,Movie ticket
+2025-10-07,Transport,482.8,UPI,Train fare
+2025-02-10,Entertainment,402.09,Cash,Book purchase
+2025-11-23,Food,387.26,UPI,Dinner out
+2025-03-04,Shopping,103.43,Debit Card,Groceries
+2025-10-16,Shopping,41.65,Credit Card,Book purchase
+2025-01-28,Food,313.53,Credit Card,Lunch at cafe
+2025-02-17,Healthcare,165.97,Debit Card,Train fare
+2025-12-26,Healthcare,444.17,Cash,Groceries
+2025-04-11,Healthcare,425.21,Wallet,Clothes shopping
+2025-09-12,Healthcare,249.43,Cash,Clothes shopping
+2025-02-11,Utilities,58.41,Cash,Electricity bill
+2025-04-06,Utilities,454.25,Wallet,Gas refill
+2025-01-29,Utilities,471.71,Debit Card,Groceries
+2025-03-27,Utilities,465.2,Wallet,Book purchase
+2025-05-14,Utilities,402.82,UPI,Electricity bill
+2025-10-13,Healthcare,271.97,Credit Card,Coffee
+2025-12-14,Food,162.41,Cash,Lunch at cafe
+2025-10-10,Healthcare,5.26,Wallet,Book purchase
+2025-09-16,Healthcare,257.82,Cash,Movie ticket
+2025-08-13,Shopping,138.36,Debit Card,Gym membership
+2025-06-09,Food,204.9,Cash,Clothes shopping
+2025-02-21,Utilities,129.63,Credit Card,Groceries
+2025-04-23,Entertainment,146.0,Cash,Gas refill
+2025-04-23,Transport,253.83,Wallet,Lunch at cafe
+2025-05-06,Transport,267.81,Credit Card,Gym membership
+2025-09-04,Utilities,45.02,Debit Card,Lunch at cafe
+2025-09-12,Healthcare,187.05,UPI,Bus ticket
+2025-07-17,Healthcare,270.21,Cash,Book purchase
+2025-05-04,Shopping,97.33,Wallet,Groceries
+2025-05-28,Utilities,340.39,Debit Card,Clothes shopping
+2025-05-27,Utilities,324.36,UPI,Book purchase
+2025-05-08,Transport,419.67,Debit Card,Train fare
+2025-05-31,Healthcare,349.41,UPI,Clothes shopping
+2025-04-22,Food,260.73,Cash,Bus ticket
+2025-10-31,Healthcare,449.12,Wallet,Gas refill
+2025-01-09,Food,177.86,Debit Card,Electricity bill
+2025-06-01,Healthcare,391.04,UPI,Gas refill
+2025-04-23,Utilities,449.78,UPI,Groceries
+2025-04-22,Healthcare,470.37,Cash,Mobile recharge
+2025-12-04,Transport,347.49,Wallet,Book purchase
+2025-06-10,Utilities,122.44,Wallet,Electricity bill
+2025-05-15,Shopping,330.52,Cash,Train fare
+2025-01-22,Healthcare,296.99,Wallet,Groceries
+2025-09-21,Shopping,220.03,Wallet,Lunch at cafe
+2025-10-11,Food,101.65,Wallet,Groceries
+2025-01-04,Shopping,385.43,Cash,Train fare
+2025-08-08,Healthcare,477.19,Wallet,Gym membership
+2025-04-09,Utilities,12.65,Wallet,Lunch at cafe
+2025-10-29,Entertainment,288.28,UPI,Lunch at cafe
+2025-04-26,Entertainment,195.62,Cash,Groceries
+2025-05-08,Transport,280.62,Credit Card,Groceries
+2025-12-26,Healthcare,53.1,Credit Card,Gas refill
+2025-09-30,Food,72.63,Wallet,Clothes shopping
+2025-09-04,Transport,406.01,Cash,Dinner out
+2025-01-13,Utilities,258.11,Cash,Electricity bill
+2025-06-22,Utilities,326.73,UPI,Groceries
+2025-05-23,Utilities,291.54,Debit Card,Book purchase
+2025-07-05,Healthcare,146.84,Credit Card,Clothes shopping
+2025-12-08,Food,23.49,Debit Card,Train fare
+2025-04-11,Food,414.8,UPI,Train fare
+2025-04-18,Entertainment,231.35,Wallet,Electricity bill
+2025-12-16,Shopping,320.53,UPI,Mobile recharge
+2025-05-04,Transport,164.86,Cash,Dinner out
+2025-11-15,Shopping,222.29,Credit Card,Movie ticket
+2025-04-27,Healthcare,418.81,Cash,Train fare
+2025-05-09,Transport,458.03,Credit Card,Gym membership
+2025-02-17,Food,331.8,Wallet,Lunch at cafe
+2025-09-29,Entertainment,370.26,Wallet,Gym membership
+2025-12-15,Shopping,127.63,Debit Card,Movie ticket
+2025-03-27,Food,174.23,UPI,Movie ticket
+2025-02-16,Food,159.15,UPI,Movie ticket
+2025-07-23,Transport,382.87,Wallet,Coffee
+2025-04-10,Food,235.01,Wallet,Coffee
+2025-09-07,Transport,474.83,UPI,Bus ticket
+2025-06-29,Transport,314.8,Credit Card,Lunch at cafe
+2025-11-21,Entertainment,85.65,Credit Card,Lunch at cafe
+2025-06-09,Shopping,401.47,UPI,Bus ticket
+2025-06-12,Utilities,68.61,Wallet,Groceries
+2025-04-11,Utilities,196.12,Cash,Dinner out
+2025-11-26,Shopping,101.92,Wallet,Train fare
+2025-04-05,Healthcare,14.02,Debit Card,Bus ticket
+2025-02-04,Food,329.58,Wallet,Clothes shopping
+2025-03-31,Healthcare,408.16,Cash,Coffee
+2025-07-15,Transport,349.88,Wallet,Gas refill

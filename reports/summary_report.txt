@@ -1,0 +1,29 @@
+Expense Tracker Summary Report
+=============================
+Highest spending category: Healthcare ($5760.64)
+Average daily spending: $311.25
+
+Spending by Category:
+Category
+Healthcare       5760.64
+Utilities        5634.75
+Transport        5174.54
+Shopping         3394.65
+Food             3349.03
+Entertainment    2831.11
+
+Monthly Totals:
+Date
+2025-01-31    1903.63
+2025-02-28    1604.73
+2025-03-31    1434.85
+2025-04-30    4654.15
+2025-05-31    3727.36
+2025-06-30    2293.12
+2025-07-31    1429.43
+2025-08-31     615.55
+2025-09-30    2738.19
+2025-10-31    1735.73
+2025-11-30    1952.32
+2025-12-31    2055.66
+Freq: ME
